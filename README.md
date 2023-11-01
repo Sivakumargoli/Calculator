@@ -43,7 +43,7 @@ Visual Studio Code (VS Code): The integrated development environment (IDE) used 
 
 
 
-Video Link:
+Video Link:https://www.linkedin.com/posts/goli-siva-kumar-84a89b258_python-kivy-appdevelopment-activity-7125484121581068288-8XeR?utm_source=share&utm_medium=member_desktop
 <br>
 
 <h1> Video </h1> 
